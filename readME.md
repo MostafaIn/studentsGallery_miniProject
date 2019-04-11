@@ -4,7 +4,7 @@
 
 ##Demo
 
-[Student Gallery App](https://mostafain.github.io/studentsGallery_miniProject/photoGalaryIndex.html)
+[Student Gallery App](https://mostafain.github.io/studentsGallery_miniProject/photoGalleryIndex.html)
 
 ## Screenshot
 
@@ -19,7 +19,8 @@
 ## Status
 version: 1,
 Project is: ongoing_,
- this mini project done by Sooyeon, Cherry, Husham and Mostafa;
+
+ This mini project done by Sooyeon, Cherry, Husham and Mostafa;
 
 ## Contact
 
