@@ -4,7 +4,7 @@
 
 ##Demo
 
-[Student Gallery App]()
+[Student Gallery App](https://mostafain.github.io/studentsGallery_miniProject/photoGalaryIndex.html)
 
 ## Screenshot
 
