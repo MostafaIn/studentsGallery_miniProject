@@ -24,7 +24,7 @@
         "lastName": "Choi",
         "title": "Junior Web Developer",
         "nationality": "South Korea",
-        "src": "I don’t have a picture",
+        "src": "sooyeon.jpg",
         "alt": "no idea?",
         "skills": [
             "HTML",
@@ -201,7 +201,7 @@
         "lastName": "Vrapi",
         "title": "Junior Developer",
         "nationality": "Albanian",
-        "src": "alba.jpg",
+        "src": "alba.jpeg",
         "alt": "Alba",
         "skills": [
             "HTML",
